@@ -13,7 +13,6 @@ public class Calculate {
 		System.out.println("เลขคู่");
 		else
 		System.out.println("เลชคี่");
-		System.out.println("Hello");
 	}
 
 }
